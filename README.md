@@ -1,8 +1,8 @@
 ### Hi  👋
 
-I'm a freelance software developer based in Australia.
+I'm a freelance software developer based in Brisbane, Australia.
 
-I develop softare for embedded, mobile, desktop and web.
+I develop software for embedded, mobile (Android/iOS), desktop (macOS, Windows) and web.
 
 
 ![Sean's github stats](https://github-readme-stats.vercel.app/api?username=ashtons&count_private=true)
