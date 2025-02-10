@@ -3,6 +3,7 @@
 I'm a freelance software developer based in Brisbane, Australia.
 
 I develop software for embedded, mobile (Android/iOS), desktop (macOS, Windows) and web.
+Specialising in large scale RFID, Barcode and NFC applications for stocktake and Point of Sale. 
 
 
 ![Sean's github stats](https://github-readme-stats.vercel.app/api?username=ashtons&count_private=true)
