@@ -12,7 +12,9 @@ Specialising in large scale RFID, Barcode and NFC applications for stocktake and
  
 Cloaked (macOS, iOS and Android) [App Store](https://apps.apple.com/us/app/id1598229364)
 
-Tailburst (macOS and web)
+Leadlight Vector (macOS) [App Store](https://apps.apple.com/us/app/id6753559477)
+
+WebDAV Nav Server (macOS) [App Store](https://apps.apple.com/us/app/id747482894)
 
 WebDAV Nav (iOS and Android)
 
