@@ -18,4 +18,4 @@ WebDAV Nav Server (macOS) [App Store](https://apps.apple.com/us/app/id747482894)
 
 WebDAV Nav (iOS and Android)
 
-- 🌱 Specialise in MVP and prototype development
+I specialise in MVP and prototype development using rapid iterations
