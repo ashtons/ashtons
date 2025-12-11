@@ -8,7 +8,7 @@ Specialising in large scale RFID, Barcode and NFC applications for stocktake and
 
 - 🔭 I’m currently working on ...
  
-Cloaked (macOS, iOS and Android) [App Store](https://apps.apple.com/us/app/id1598229364)
+Cloaked (macOS, iOS) [App Store](https://apps.apple.com/us/app/id1598229364)
 
 Leadlight Vector (macOS) [App Store](https://apps.apple.com/us/app/id6753559477)
 
