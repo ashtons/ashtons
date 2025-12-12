@@ -8,11 +8,11 @@ Specialising in large scale RFID, Barcode and NFC applications for stocktake and
 
 - 🔭 I’m currently working on ...
  
-Cloaked (macOS, iOS) [App Store](https://apps.apple.com/us/app/id1598229364)
+Cloaked (macOS, iOS) [App Store](https://apps.apple.com/us/app/id1598229364) [Product Page] (https://schimera.com/products/cloaked/)
 
-Leadlight Vector (macOS) [App Store](https://apps.apple.com/us/app/id6753559477)
+Leadlight Vector (macOS) [App Store](https://apps.apple.com/us/app/id6753559477) [Product Page] (https://schimera.com/products/leadlight-vector/)
 
-WebDAV Nav Server (macOS) [App Store](https://apps.apple.com/us/app/id747482894)
+WebDAV Nav Server (macOS) [App Store](https://apps.apple.com/us/app/id747482894) [Product Page] (https://schimera.com/products/webdav-nav-server/)
 
 WebDAV Nav (iOS and Android)
 
