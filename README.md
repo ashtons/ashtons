@@ -16,4 +16,8 @@ WebDAV Nav Server (macOS) [App Store](https://apps.apple.com/us/app/id747482894)
 
 WebDAV Nav (iOS and Android)
 
+Riot Pairs (Apple Watch) Coming soon ...
+
+Rocket Task (macOS) Comming soon ...
+
 I specialise in MVP and prototype development using rapid iterations
