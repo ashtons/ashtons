@@ -18,6 +18,6 @@ WebDAV Nav (iOS and Android)
 
 Riot Pairs (Apple Watch) Memory game. [Product Page](https://schimera.com/products/riot-pairs/)
 
-Rocket Task (macOS) Menu bar task timer for solo developers. Comming soon ...
+Rocket Task (macOS) Menu bar task timer for solo developers. [Product Page](https://schimera.com/products/rocket-task/)
 
 I specialise in MVP and prototype development using rapid iterations
