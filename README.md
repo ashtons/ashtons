@@ -3,7 +3,7 @@
 I'm a freelance software developer based in Brisbane, Australia.
 
 I develop software for embedded, mobile (Android/iOS), desktop (macOS, Linux, Windows) and web.
-Specialising in large scale RFID, Barcode and NFC applications for automation, stocktake and Point of Sale. 
+Large scale RFID, Barcode and NFC applications for automation, stocktake and Point of Sale. 
 
 
 - 🔭 I’m currently working on ...
