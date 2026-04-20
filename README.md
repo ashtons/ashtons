@@ -20,4 +20,6 @@ Riot Pairs (Apple Watch) Memory game. [Product Page](https://schimera.com/produc
 
 Rocket Task (macOS) Menu bar task timer for solo developers. [Product Page](https://schimera.com/products/rocket-task/)
 
+CardShark (Apple Watch and iOS) Loyalty and Barcode app to easily manage a variety of barcodes. 
+
 I specialise in MVP and prototype development using rapid iterations
