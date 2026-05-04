@@ -20,6 +20,9 @@ Riot Pairs (Apple Watch) Memory game. [App Store](https://apps.apple.com/us/app/
 
 Rocket Task (macOS) Menu bar task timer for solo developers. [Product Page](https://schimera.com/products/rocket-task/)
 
+Ext Disk Belt (macOS) native application for reading Linux disk images and partitions. [Product Page](https://schimera.com/products/ext-disk-belt/)
+
+
 CardShark (Apple Watch and iOS) Loyalty and Barcode app to easily manage a variety of barcodes. 
 
 I specialise in MVP and prototype development using rapid iterations
