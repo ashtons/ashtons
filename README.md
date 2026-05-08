@@ -18,7 +18,7 @@ WebDAV Nav (iOS and Android)
 
 Riot Pairs (Apple Watch) Memory game. [App Store](https://apps.apple.com/us/app/id6762023349) | [Product Page](https://schimera.com/products/riot-pairs/)
 
-Rocket Task (macOS) Menu bar task timer for solo developers. [Product Page](https://schimera.com/products/rocket-task/)
+Rocket Task (macOS) Menu bar task timer for solo developers. [App Store](https://apps.apple.com/us/app/id6761671242) | [Product Page](https://schimera.com/products/rocket-task/)
 
 Ext Disk Belt (macOS) native application for reading Linux disk images and partitions. [Product Page](https://schimera.com/products/ext-disk-belt/)
 
