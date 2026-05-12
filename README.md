@@ -1,6 +1,6 @@
 ### Hi  👋
 
-I'm a freelance software developer based in Brisbane, Australia.
+I'm a freelance software developer based in Brisbane, Australia. [Schimera Pty Ltd](https://schimera.com)
 
 I develop software for embedded, mobile (Android/iOS/Apple Watch), desktop (macOS, Linux, Windows) and web.
 Large scale RFID, Barcode and NFC applications for automation, stocktake and Point of Sale. 
