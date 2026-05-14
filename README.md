@@ -23,6 +23,6 @@ Rocket Task (macOS) Menu bar task timer for solo developers. [App Store](https:/
 Ext Disk Belt (macOS) native application for reading Linux disk images and partitions. [Product Page](https://schimera.com/products/ext-disk-belt/)
 
 
-CardShark (Apple Watch and iOS) Loyalty and Barcode app to easily manage a variety of barcodes. 
+Tag Shark (Apple Watch and iOS) Barcode and NFC app to easily manage a variety of barcodes and NFC tags, including loyalty cards. 
 
 I specialise in MVP and prototype development using rapid iterations
