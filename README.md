@@ -1,6 +1,6 @@
 ### Hi  👋
 
-I'm a freelance software developer based in Brisbane, Australia. [Schimera Pty Ltd](https://schimera.com)
+I'm a freelance software engineer based in Brisbane, Australia. [Schimera Pty Ltd](https://schimera.com)
 
 I develop software for embedded, mobile (Android/iOS/Apple Watch/Wear OS), desktop (macOS, Linux, Windows) and web.
 Large scale RFID, Barcode and NFC applications for automation, stocktake and Point of Sale. 
@@ -22,7 +22,8 @@ Rocket Task (macOS) Menu bar task timer for solo developers. [App Store](https:/
 
 Ext Disk Belt (macOS) native application for reading Linux disk images and partitions. [Product Page](https://schimera.com/products/ext-disk-belt/)
 
-
 Tag Shark (Apple Watch and iOS) Barcode and NFC app to easily manage a variety of barcodes and NFC tags, including loyalty cards. 
+
+Crawl Sense - macOS desktop app to crawl a website and perform a spell check across visible content. Includes local word list support, works completely locally so works on local content as well as publicly available sites. 
 
 I specialise in MVP and prototype development using rapid iterations
