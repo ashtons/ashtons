@@ -14,7 +14,7 @@ Leadlight Vector (macOS) [App Store](https://apps.apple.com/us/app/id6753559477)
 
 WebDAV Nav Server (macOS) [App Store](https://apps.apple.com/us/app/id747482894) | [Product Page](https://schimera.com/products/webdav-nav-server/)
 
-WebDAV Nav (iOS and Android)
+WebDAV Nav (iOS and Android) [App Store](https://itunes.apple.com/us/app/webdav-nav+/id412341302?mt=8)
 
 Riot Pairs (Apple Watch) Memory game. [App Store](https://apps.apple.com/us/app/id6762023349) | [Product Page](https://schimera.com/products/riot-pairs/)
 
