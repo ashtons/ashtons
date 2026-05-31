@@ -24,6 +24,6 @@ Ext Disk Belt (macOS) native application for reading Linux disk images and parti
 
 Tag Shark (Apple Watch and iOS) Barcode and NFC app to easily manage a variety of barcodes and NFC tags, including loyalty cards.  [App Store](https://apps.apple.com/us/app/tag-shark/id6768006394) | [Product Page](https://schimera.com/products/tag-shark/)
 
-Crawl Sense - macOS desktop app to crawl a website and perform a spell check across visible content. Includes local word list support and works independantly so can work with locally hosted content. 
+Crawl Sense - macOS desktop app to crawl a website and perform a spell check across visible content. 
 
 I specialise in MVP, prototype and reverse engineering development using rapid iterations
