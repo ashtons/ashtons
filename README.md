@@ -16,7 +16,7 @@ WebDAV Nav Server (macOS) [App Store](https://apps.apple.com/us/app/id747482894)
 
 WebDAV Nav (iOS and Android) [App Store](https://itunes.apple.com/us/app/webdav-nav+/id412341302?mt=8)
 
-Riot Pairs (Apple Watch) Memory game. [App Store](https://apps.apple.com/us/app/id6762023349) | [Product Page](https://schimera.com/products/riot-pairs/)
+Riot Pairs (Apple Watch and Apple TV) Memory game. [App Store](https://apps.apple.com/us/app/id6762023349) | [Product Page](https://schimera.com/products/riot-pairs/)
 
 Rocket Task (macOS) Menu bar task timer for solo developers. [App Store](https://apps.apple.com/us/app/id6761671242) | [Product Page](https://schimera.com/products/rocket-task/)
 
