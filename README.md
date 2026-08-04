@@ -7,7 +7,9 @@ Large scale Electronic Shelf Label (ESL), RFID, Barcode and NFC applications for
 
 
 - 🔭 I’m currently working on ...
- 
+
+Grid Assess (iOS, Android) [Product Page](https://schimera.com/products/grid-assess/)
+
 Cloaked (macOS, iOS) [App Store](https://apps.apple.com/us/app/id1598229364) |  [Product Page](https://schimera.com/products/cloaked/)
 
 Leadlight Vector (macOS) [App Store](https://apps.apple.com/us/app/id6753559477) | [Product Page](https://schimera.com/products/leadlight-vector/)
