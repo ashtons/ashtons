@@ -8,7 +8,7 @@ Large scale Electronic Shelf Label (ESL), RFID, Barcode and NFC applications for
 
 - 🔭 I’m currently working on ...
 
-Grid Assess (iOS, Android) [Product Page](https://schimera.com/products/grid-assess/)
+Grid Assess (iOS, Android) [App Store](https://apps.apple.com/au/app/grid-assess/id6797676864) [Play Store](https://play.google.com/store/apps/details?id=com.schimera.gridassess) | [Product Page](https://schimera.com/products/grid-assess/)
 
 Cloaked (macOS, iOS) [App Store](https://apps.apple.com/us/app/id1598229364) |  [Product Page](https://schimera.com/products/cloaked/)
 
