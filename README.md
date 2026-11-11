@@ -8,9 +8,14 @@ Large scale Electronic Shelf Label (ESL), RFID, Barcode and NFC applications for
 
 - 🔭 I’m currently working on ...
 
-Orrery (iOS, Android) - Ball puzzle game, retro [App Store](https://apps.apple.com/us/app/id6812569496) | [Play Store](https://play.google.com/store/apps/details?id=com.schimera.orrery)
 
 Weather Monitor (iOS, Android) - Weather@Home alternative for Oregon Scientific [App Store](https://apps.apple.com/au/app/weather-monitor/id1542285854) | [Play Store](https://play.google.com/store/apps/details?id=com.schimera.weathermonitor&hl=en)
+
+Tag Shark (Apple Watch and iOS) Barcode and NFC app to easily manage a variety of barcodes and NFC tags.  [App Store](https://apps.apple.com/us/app/tag-shark/id6768006394) | [Product Page](https://schimera.com/products/tag-shark/)
+
+WebDAV Nav Server (macOS) [App Store](https://apps.apple.com/us/app/id747482894) | [Product Page](https://schimera.com/products/webdav-nav-server/)
+
+WebDAV Nav (iOS and Android) [App Store](https://itunes.apple.com/us/app/webdav-nav+/id412341302?mt=8)
 
 Grid Assess (iOS, Android) [App Store](https://apps.apple.com/au/app/grid-assess/id6797676864) [Play Store](https://play.google.com/store/apps/details?id=com.schimera.gridassess) | [Product Page](https://schimera.com/products/grid-assess/)
 
@@ -18,19 +23,15 @@ Cloaked (macOS, iOS) [App Store](https://apps.apple.com/us/app/id1598229364) |  
 
 Leadlight Vector (macOS) [App Store](https://apps.apple.com/us/app/id6753559477) | [Product Page](https://schimera.com/products/leadlight-vector/)
 
-WebDAV Nav Server (macOS) [App Store](https://apps.apple.com/us/app/id747482894) | [Product Page](https://schimera.com/products/webdav-nav-server/)
-
-WebDAV Nav (iOS and Android) [App Store](https://itunes.apple.com/us/app/webdav-nav+/id412341302?mt=8)
-
 Riot Pairs (Apple Watch and Apple TV) Memory game. [App Store](https://apps.apple.com/us/app/id6762023349) | [Product Page](https://schimera.com/products/riot-pairs/)
 
 That's My Block - Capture the block game. [App Store](https://apps.apple.com/us/app/id6785095133) | [Play Store](https://play.google.com/store/apps/details?id=com.schimera.thatsmine) | [Product Page](https://schimera.com/products/thats-my-block/)
 
 Rocket Task (macOS) Menu bar task timer for solo developers. [App Store](https://apps.apple.com/us/app/id6761671242) | [Product Page](https://schimera.com/products/rocket-task/)
 
-Ext Disk Belt (macOS) native application for reading Linux disk images and partitions. [Product Page](https://schimera.com/products/ext-disk-belt/)
+Orrery (iOS, Android) - Ball puzzle game, retro [App Store](https://apps.apple.com/us/app/id6812569496) | [Play Store](https://play.google.com/store/apps/details?id=com.schimera.orrery)
 
-Tag Shark (Apple Watch and iOS) Barcode and NFC app to easily manage a variety of barcodes and NFC tags.  [App Store](https://apps.apple.com/us/app/tag-shark/id6768006394) | [Product Page](https://schimera.com/products/tag-shark/)
+Ext Disk Belt (macOS) native application for reading Linux disk images and partitions. [Product Page](https://schimera.com/products/ext-disk-belt/)
 
 Crawl Sense - [App Store](https://apps.apple.com/us/app/id6772052042) | macOS desktop app to crawl a website and perform a spell check across visible content. 
 
