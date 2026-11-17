@@ -9,7 +9,7 @@ Large scale Electronic Shelf Label (ESL), RFID, Barcode and NFC applications for
 - 🔭 I’m currently working on ...
 
 
-Weather Monitor (iOS, Android) - Weather@Home alternative for Oregon Scientific [App Store](https://apps.apple.com/au/app/weather-monitor/id1542285854) | [Play Store](https://play.google.com/store/apps/details?id=com.schimera.weathermonitor&hl=en)
+Weather Monitor (iOS, macOS, Apple Watch, Android) - Weather@Home alternative for Oregon Scientific [App Store](https://apps.apple.com/au/app/weather-monitor/id1542285854) | [Play Store](https://play.google.com/store/apps/details?id=com.schimera.weathermonitor&hl=en)
 
 Tag Shark (Apple Watch and iOS) Barcode and NFC app to easily manage a variety of barcodes and NFC tags.  [App Store](https://apps.apple.com/us/app/tag-shark/id6768006394) | [Product Page](https://schimera.com/products/tag-shark/)
 
